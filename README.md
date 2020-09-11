@@ -23,6 +23,7 @@
   - Twitter : https://twitter.com/SARTHAKASTHANA9
   - Hackerrank : https://www.hackerrank.com/sarthakasthana21
   - Linkedin : www.linkedin.com/in/sarthak-asthana-a7001516b
+  - Kaggle : https://www.kaggle.com/sarthakasthana27
   
 ## 📧How to Reach me
   Drop me a mail at sarthakasthana2014@gmail.com 
