@@ -25,5 +25,9 @@
   - Linkedin : www.linkedin.com/in/sarthak-asthana-a7001516b
   - Kaggle : https://www.kaggle.com/sarthakasthana27
   
+## 🤗What I do in my free time
+  - Workout💪/Cycling🚴‍/Cricket🏏
+  - Love to Sing🎶 and Dance🕺
+  
 ## 📧How to Reach me
   Drop me a mail at sarthakasthana2014@gmail.com 
