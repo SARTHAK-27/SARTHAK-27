@@ -27,7 +27,7 @@
   - Kaggle : https://www.kaggle.com/sarthakasthana27
   
 ## 🤗What I do in my free time
-  - Exploring different sides og myself.
+  - Love to explore different sides of myself.
   - Pushing myself.
   - Love to Sing🎶 and Dance🕺
   
