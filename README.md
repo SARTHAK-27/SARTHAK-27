@@ -1,23 +1,22 @@
 ### 👨‍💻Hi there,
 
 ## About me
-  Hey, I am a pre-final year undergraduate student pursuing a Bachelor of Technology degree in Computer Science and Engineering at SRM Institute of Science and Technology(SRMIST), Kattankulathur.
+I am a Final Year Undergraduate student pursuing B.Tech in Computer Science and Engineering(CSE) from SRM Institute of Science and Technology(SRMIST), Kattankulathur.
   
   I have a passion for Data Science and Web Development with a keen interest in new technologies and enjoy working in a systematic and planned way. I love the field of Data Science, very fascinated by the fact that we can predict with Data.
   
 ## 📈Currently working on
-  - Server Side Development(Flask)
-  - Problem Solving
+  - DSA
   - Data Science Projects
   
 ## 👐Looking to collaborate on
-  - Full stack website projects
-  - Data Science Project
+  - Full Stack Projects
+  - Data Science Projects
   
 ## ☘Currently learing
   - Deep Learning
-  - Flask
-  - DSA
+  - NLP
+  - React js
   
 ## 🤔Where else you can find me?
   - Twitter : https://twitter.com/SARTHAKASTHANA9
